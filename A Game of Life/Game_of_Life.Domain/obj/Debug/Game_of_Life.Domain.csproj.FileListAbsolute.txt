@@ -1,0 +1,3 @@
+C:\Users\Admin\Documents\Просто что-то\My Projects\Games\A Game of Life\Game_of_Life.Domain\obj\Debug\Game_of_Life.Domain.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\Просто что-то\My Projects\Games\A Game of Life\Game_of_Life.Domain\obj\Debug\Game_of_Life.Domain.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Documents\Просто что-то\My Projects\Games\A Game of Life\Game_of_Life.Domain\obj\Debug\Game_of_Life.Domain.csproj.CoreCompileInputs.cache
