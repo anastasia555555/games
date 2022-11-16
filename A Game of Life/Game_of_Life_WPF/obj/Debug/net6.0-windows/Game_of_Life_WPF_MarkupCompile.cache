@@ -1,5 +1,5 @@
 ﻿Game_of_Life_WPF
-1.0.0.0
+
 
 winexe
 C#
@@ -12,7 +12,7 @@ TRACE;DEBUG;NET;NET6_0;NETCOREAPP
 C:\Users\Admin\Documents\Просто что-то\My Projects\Games\A Game of Life\Game_of_Life_WPF\App.xaml
 1-834700163
 
-4317774857
+2325847920
 194618410957
 Views\Windows\MainWindow.xaml;
 

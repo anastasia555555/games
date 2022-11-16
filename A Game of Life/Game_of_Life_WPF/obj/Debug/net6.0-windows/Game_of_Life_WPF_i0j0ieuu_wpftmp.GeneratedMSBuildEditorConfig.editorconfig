@@ -1,0 +1,10 @@
+is_global = true
+build_property.TargetFramework = net6.0-windows
+build_property.TargetPlatformMinVersion = 7.0
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Game_of_Life_WPF_i0j0ieuu_wpftmp
+build_property.ProjectDir = C:\Users\Admin\Documents\Просто что-то\My Projects\Games\A Game of Life\Game_of_Life_WPF\
